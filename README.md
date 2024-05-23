@@ -22,4 +22,5 @@ This project implements a distributed application using Apache Spark to find spe
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/spark-name-finder.git
-   cd spark-name-finder
+   cd spark-name-finder/name-finder
+   mvn clean install
